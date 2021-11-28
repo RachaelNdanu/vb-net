@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\bin\Debug\systempayroll.exe.config
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\bin\Debug\systempayroll.exe
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\bin\Debug\systempayroll.pdb
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\bin\Debug\systempayroll.xml
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.Form1.resources
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.Resources.resources
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.exe
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.xml
+C:\Users\User\Desktop\systempayroll\systempayroll\systempayroll\obj\Debug\systempayroll.pdb
